@@ -20,11 +20,3 @@ Este proyecto fue desarrollado como Trabajo Práctico Obligatorio (TPO) para la 
 ## 🛠️ Tecnologías y Herramientas
 
 * **Lenguaje Core:** Java
-
-## ⚙️ Instalación y Ejecución
-
-Para correr el juego de manera local, seguí estos pasos:
-
-1. Cloná este repositorio en tu máquina:
-   ```bash
-   git clone [https://github.com/tu-usuario/niccia-frente-cero.git](https://github.com/tu-usuario/niccia-frente-cero.git)
